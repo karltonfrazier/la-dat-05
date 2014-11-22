@@ -6,18 +6,18 @@ ALL TENTATIVE AND SUBJECT TO CHANGE
 5.	Intro to Machine Learning 
 6.	Linear Regression, Regularization 
 7.	Logistic Regression 
-8.	Probability, Naïve Bayes 
+8.	Probability, Bayesian Inference, and Naïve Bayes 
 9.	Decision Trees, Random Forests 
-10.	ML Review; Ensemble Learning
-11.	Unsupervised Learning
-12.	Clustering
-13.	Support Vector Machines  
-14.	Neural Networks & Deep Learning 
-15.	Probability Review; Experiment Design & A/B Testing 
-16.	Multi-Armed Bandits
-17.	Data Visualization 
-18.	Hadoop, MapReduce, Distributed Systems
-19.	TBD
+10.	ML Review 
+11. Ensemble Learning
+12.	Unsupervised Learning
+13.	Clustering
+14.	Support Vector Machines  
+15.	Neural Networks & Deep Learning 
+16.	Probability Review; Experiment Design & A/B Testing 
+17.	Multi-Armed Bandits
+18.	Data Visualization 
+19.	Hadoop, MapReduce, Distributed Systems
 20.	TBD
 21.	Guest Speaker 
 22.	Final Presentations
