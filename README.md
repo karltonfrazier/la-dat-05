@@ -28,6 +28,6 @@ Here, you'll find links to slides, handouts, and other material.
 - Class 7 (2014-12-11): [Logistic Regression](https://github.com/ga-students/la-dat-05/wiki/Lesson-07-Logistic-Regression) 
 - Class 8 (2014-12-16): [Naive Bayes & Bayesian Estimators](https://github.com/ga-students/la-dat-05/wiki/Lesson-08-Probability,-Bayesian-Inference,-and-Naive-Bayes) (Project Outline Due!)
 - Class 9 (2014-12-18): [Decision Trees and Random Forests](https://github.com/ga-students/la-dat-05/wiki/Lesson-09-Decision-Trees-&-Random-Forests) (Project Outline Discussion!)
--- BREAK --
+- BREAK 
 - Class 10 (2015-01-06): [ML Review](https://github.com/ga-students/la-dat-05/wiki/Lesson-10-ML-Review)
 - Class 11 (2015-01-08): [Ensemble Methods](https://github.com/ga-students/la-dat-05/wiki/Lesson-11-Ensemble-Methods)
