@@ -1,0 +1,4 @@
+*.pyc 
+*.ipynb_checkpoints
+hw/hw02/hw02solutions.ipynb
+hw/hw03/hw03solutions.ipynb

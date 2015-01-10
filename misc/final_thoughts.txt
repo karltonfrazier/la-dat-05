@@ -1,0 +1,5 @@
+-- the danger of overfitting 
+-- the importance of validation 
+-- occam's razor 
+-- the unreasonable effectiveness of data 
+-- sometimes, brute force is better than clever 
