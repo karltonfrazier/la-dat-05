@@ -9,15 +9,15 @@ ALL TENTATIVE AND SUBJECT TO CHANGE
 8.	Probability, Bayesian Inference, and Naïve Bayes 
 9.	Decision Trees, Random Forests 
 10.	ML Review 
-11. Ensemble Learning
-12.	Unsupervised Learning
+11. 	Ensemble Learning
+12.	Unsupervised Learning & PCA
 13.	Clustering
-14.	Support Vector Machines  
+14.	Support Vector Machines 
 15.	Neural Networks & Deep Learning 
-16.	Probability Review; Experiment Design & A/B Testing 
-17.	Multi-Armed Bandits
-18.	Data Visualization 
-19.	Hadoop, MapReduce, Distributed Systems
-20.	TBD
-21.	Guest Speaker 
+16. 	Recommendation Systems
+17. 	Dataset Transformations 
+18.	Hadoop, MapReduce, Distributed Systems
+19.	Experiment Design, A/B Testing, & Multi-Armed Bandits
+20.	TBD 
+21.	TBD  
 22.	Final Presentations
