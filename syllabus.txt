@@ -10,8 +10,8 @@ ALL TENTATIVE AND SUBJECT TO CHANGE
 9.	Decision Trees, Random Forests 
 10.	ML Review 
 11. 	Ensemble Learning
-12.	Unsupervised Learning & PCA
-13.	Clustering
+12.	K-means Clustering
+13.	Unsupervised Learning & PCA
 14.	Support Vector Machines 
 15.	Neural Networks & Deep Learning 
 16. 	Recommendation Systems
