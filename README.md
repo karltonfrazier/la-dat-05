@@ -31,9 +31,9 @@ Here, you'll find links to slides, handouts, and other material.
 - BREAK 
 - Class 10 (2015-01-06): [ML Review](https://github.com/ga-students/la-dat-05/wiki/Lesson-10-ML-Review)
 - Class 11 (2015-01-08): [Ensemble Methods](https://github.com/ga-students/la-dat-05/wiki/Lesson-11-Ensemble-Methods)
-- Class 12 (2015-01-15): [K-means Clustering]()
-- Class 13 (2015-01-13): [Unsupervised Learning & PCA]()
-- Class 14 (2015-01-20): [Support Vector Machines]()
+- Class 12 (2015-01-15): [K-means Clustering](https://github.com/ga-students/la-dat-05/wiki/Lesson-12-K-means-clustering)
+- Class 13 (2015-01-13): [Unsupervised Learning & PCA](https://github.com/ga-students/la-dat-05/wiki/Lesson-13-Unsupervised-Learning-&-PCA)
+- Class 14 (2015-01-20): [Support Vector Machines](https://github.com/ga-students/la-dat-05/wiki/Lesson-14-Support-Vector-Machines)
 - Class 15 (2015-01-22): [Neural Networks]()
 - Class 16 (2015-01-27): [Recommendation Systems]()
 - Class 17 (2015-01-29): [Dataset Transformations]()
